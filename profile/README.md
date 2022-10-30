@@ -16,9 +16,26 @@ School administrators to make the process of transferring the sign-in records to
 
 tbd
 
-# TODO
-- Implement Website Portal
-- Implement Firebase database
+# TODO/plans
+- Fullstack work (react/express/node/mongo/ firebase?) -- done by mid November
+  - Implement Website Portal
+    - firebase auth signin
+      - detect if student/ms julie
+      - guide to dashbaord or adminDashboard based on above
+    - https://www.npmjs.com/package/react-calendar
+      - moment obj in-h0ouse, stored as a string
+      - on click of event, send prop as a moment obj, display on new component page
+        - compontenizing pages
+    - STUDENT
+      - student reports page
+        - includes percentage on-time, tardy, etc
+      - calendar to see individual days
+    - ADMIN
+      - grade-wide reports
+      - individual student records
+      - calendar view
+  
+- Implement Firebase database (might change to mongo)
 - Retrieve WPI IDs from each student
 - Write code to pull from database
 - Implement RFID and map signals to ID
