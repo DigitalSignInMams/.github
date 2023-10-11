@@ -2,7 +2,9 @@
 
 
 
-Developed by Tarun Eswar, David Barsoum, Charles Tang at the Massachusetts Academy of Math and Science.
+**Developers** Tarun Eswar, David Barsoum, Charles Tang <br>
+**Instructor** Angela Taricco <br>
+**Supporting Instution(s)** Massachusetts Academy of Math and Science, Worcester Polytechnic Institute
 
 Public view access: https://mass-academy-sign-in-system.web.app/ <br>
 Other resources: restricted
