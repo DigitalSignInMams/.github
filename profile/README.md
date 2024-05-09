@@ -2,7 +2,7 @@
 
 
 
-**Developers** Tarun Eswar, David Barsoum, Charles Tang <br>
+**Developers** Tarun Eswar, David Barsoum, Charles Tang, Erica Dong, Nevin Thinagar <br>
 **Instructor** Angela Taricco <br>
 **Supporting Instution(s)** Massachusetts Academy of Math and Science, Worcester Polytechnic Institute
 
